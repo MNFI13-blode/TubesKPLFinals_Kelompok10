@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDiYu2zOv2jSt/dY/n6PhfuIy5EsrCiRjOv/klatzT9i0M41j3x6DGeP0ta7F4XJajy93ht4PoG9/KvzUsc7SQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\TP\\KPL\\Ngulang TP\\TUBES KPL\\Sebelum di Merge\\OnlineShop_Kelompok10_TubesFINAL\\Finder\\Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A S U S\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\A S U S\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\A S U S\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

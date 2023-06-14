@@ -1,0 +1,10 @@
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\bin\Debug\netstandard2.0\Finder.deps.json
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\bin\Debug\netstandard2.0\Finder.dll
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\bin\Debug\netstandard2.0\Finder.pdb
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.csproj.AssemblyReference.cache
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.AssemblyInfoInputs.cache
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.AssemblyInfo.cs
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.csproj.CoreCompileInputs.cache
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.dll
+D:\Documents\TP\KPL\Ngulang TP\TUBES KPL\Sebelum di Merge\OnlineShop_Kelompok10_TubesFINAL\Finder\obj\Debug\netstandard2.0\Finder.pdb

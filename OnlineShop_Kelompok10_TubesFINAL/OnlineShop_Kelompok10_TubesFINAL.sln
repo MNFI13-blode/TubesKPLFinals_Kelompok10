@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop_Kelompok10_TubesFINAL", "OnlineShop_Kelompok10_TubesFINAL\OnlineShop_Kelompok10_TubesFINAL.csproj", "{E17B7873-D138-4854-9014-957ADF8A1DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finder", "Finder\Finder.csproj", "{2CC720B4-CBF0-4D0B-83A1-29971F78F4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17B7873-D138-4854-9014-957ADF8A1DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17B7873-D138-4854-9014-957ADF8A1DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17B7873-D138-4854-9014-957ADF8A1DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17B7873-D138-4854-9014-957ADF8A1DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC720B4-CBF0-4D0B-83A1-29971F78F4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC720B4-CBF0-4D0B-83A1-29971F78F4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC720B4-CBF0-4D0B-83A1-29971F78F4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC720B4-CBF0-4D0B-83A1-29971F78F4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF614DDA-AF8D-464B-B88D-C0ECFD067F68}
+	EndGlobalSection
+EndGlobal
